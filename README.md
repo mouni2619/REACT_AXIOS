@@ -1,3 +1,7 @@
+This is React Axios Task. In this, I used React and Axios to interact with a mock API for user data. I displayed existing API data in the UI, allowed users to perform CRUD operations (Create, Read, Update, Delete) on user records, and ensured that changes to user data were stored in the mock API. I also created a clean and responsive UI for easy navigation and use.Here I used MUI, CSS and Bootstrap for styling
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
